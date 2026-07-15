@@ -27,8 +27,7 @@ if (price < money) {
 }
 console.log("---------------------");
 
-const name = 'Potato';
-if (name === 'Potato')
-{
-    console.log('we are mr.potato');
+const name = "Potato";
+if (name === "Potato") {
+  console.log("we are mr.potato");
 }
